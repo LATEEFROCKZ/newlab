@@ -14,7 +14,6 @@ setup_args = dict(
     author='LATEEFROCKZ',
     author_email='2012lateef@gmail.com',
     url='https://jupyter.org',
-    license='BSD',
     platforms='Linux, Mac OS X, Windows',
     keywords=['Jupyter', 'JupyterLab'],
     cmdclass=create_cmdclass(),
